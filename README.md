@@ -16,8 +16,8 @@ the end of the course it holds the platform your group defends orally:
 
 | Name | GitHub | Role |
 |---|---|---|
-| | | |
-| | | |
+|Carla Chaume |carlachm| |
+|Téo Desquatrevaux |teodesquatrevaux | |
 | | | |
 | | | |
 
