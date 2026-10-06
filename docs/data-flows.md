@@ -8,8 +8,7 @@ it moves, and in which format.
 | 1 | Shop (website, checkout) | Orders, customers, products, reviews, saved cards, passwords | PostgreSQL (25 tables) | On every user action | SQL rows (transactional) | Frequency inferred: the brief does not state it |
 | 2 | PostgreSQL | The same tables, with no separation between business data and sensitive data | Analysts, via direct queries | On demand (ad hoc) | SQL queries | Analysts read the tables the shop writes to |
 | 3 | PostgreSQL | Table export | Analysts' spreadsheets | Every night | CSV | Exact scope not stated in the brief |
-| 4 | Analysts' spreadsheets | Revenue figures recomputed in each spreadsheet | Reports | Not stated in the brief | Spreadsheets | Reports show different revenue figures |
-| 5 | No flow defined | Units sold per product, per country, per day | ML team | Need expressed, nothing exists | None today | Missing flow |
+
 
 ## Under the matrix, answer
 
