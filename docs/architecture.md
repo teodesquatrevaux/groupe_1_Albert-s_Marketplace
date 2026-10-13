@@ -1,7 +1,5 @@
 # Architecture
 
-> Update this page at the end of every lesson. It is the diagram you present at
-> the oral defence.
 
 ## Context
 
@@ -34,8 +32,6 @@ flowchart LR
 
 ```
 
-Replace this placeholder with your group's diagram. Name each technology once
-your group has chosen it, and link the ADR that chose it.
 
 ## Layers
 

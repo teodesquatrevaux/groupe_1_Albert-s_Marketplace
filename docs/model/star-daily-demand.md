@@ -33,6 +33,7 @@ erDiagram
         date full_date
         int iso_week
         int month
+        int year
     }
 
     DIM_PRODUCT {
